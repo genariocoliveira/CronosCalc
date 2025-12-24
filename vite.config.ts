@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     sourcemap: false,
-    minify: 'terser',
+    minify: 'esbuild', // Esbuild é nativo e resolve o erro de 'terser not found'
     rollupOptions: {
       input: {
         main: './index.html'
