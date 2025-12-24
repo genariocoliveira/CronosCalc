@@ -3,7 +3,7 @@
   "name": "CronosCalc - Calculadora de Tempo",
   "short_name": "CronosCalc",
   "description": "Calculadora moderna para diferença de horários e adição de tempo.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#4f46e5",
