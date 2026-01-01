@@ -33,9 +33,9 @@ const App: React.FC = () => {
         )}
 
         {/* Persistent Branding */}
-        <footer className="mt-12 text-center text-slate-400 text-sm">
+        {/*<footer className="mt-12 text-center text-slate-400 text-sm">
           <p>© {new Date().getFullYear()} CronosCalc. Simplicidade no controle do tempo.</p>
-        </footer>
+        </footer>*/}
       </div>
     </div>
   );
